@@ -1,0 +1,83 @@
+.container1 {
+    background-color: white;
+    color: black;
+    height: 90px;
+    width: 100%;
+    border: 1px solid black;
+}
+
+
+/* .parent1 {
+    display: flex;
+    flex-basis: 100%;
+    height: 500px;
+    width: 800px;
+    position: relative;
+} */
+
+.parent1 #pc1 {
+    font-size: 24px;
+    letter-spacing: normal;
+    position: relative;
+    margin-left: 10px;
+    text-align: start;
+    color: #24292f;
+    background-color: #ffffff;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"
+}
+
+button {
+    width: 50px;
+    height: 50px;
+}
+
+.parent1 .pc2 {
+    margin-right: 230px;
+    font-size: 24px;
+    letter-spacing: normal;
+    text-align: start;
+    display: inline;
+    position: relative;
+    text-decoration: none;
+    color: #24292f;
+    background-color: #ffffff;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+.parent1 a {
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.container2 {
+    /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: normal;
+    color: #24292f;
+    background-color: #ffffff; */
+    display: flex;
+    margin-top: 50px;
+    height: 50px;
+}
+
+h1 {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: normal;
+    color: #24292f;
+    background-color: #ffffff;
+}
+
+p {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: normal;
+    color: #24292f;
+    background-color: #ffffff;
+}
